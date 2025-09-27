@@ -6,6 +6,6 @@ It’s a part of my early learning phase and will be redesigned and improved in 
 
 🛠️ Built With :-
 
-HTML5
-CSS3
+HTML5, 
+CSS3, 
 JavaScript (ES6)

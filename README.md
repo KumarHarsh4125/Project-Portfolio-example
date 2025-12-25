@@ -1,4 +1,4 @@
-This is my portfolio website project — one of the very first projects I built when I started learning HTML, CSS, and JavaScript.
+This is my portfolio project — one of the very first projects I built when I started learning HTML, CSS, and JavaScript.
 
 🚧 Note: This version of the portfolio is not updated and does not reflect my current skills, projects, or experience.
 It’s a part of my early learning phase and will be redesigned and improved in the future.
